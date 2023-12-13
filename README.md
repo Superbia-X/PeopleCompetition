@@ -1,0 +1,2 @@
+# PeopleCompetition
+People
