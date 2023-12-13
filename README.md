@@ -36,4 +36,9 @@ pycombo                   0.1.7
 
 pandas                    2.1.3
 
+scikit-learn              1.3.2  
+
+python-louvain            0.16
+
+
 
