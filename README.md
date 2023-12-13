@@ -10,35 +10,5 @@ GNNs程序是社区划分的主程序，在这是我们输出并保存了划分�
 划分结果将会保存在submission文件夹中，是以最大社区数量-nums_initials_GNNs_configs-num_runs为命名的npy文件，我们在output_to_json.py文件中对该文件进行了转化，将其转化为符合提交格式的submission.json
 check_community.py是格式校验文件，可以在提交前进行格式检测
 
-最后是我们的运行环境：
-
-cdlib                     0.3.0
-
-leidenalg                 0.10.1
-
-networkx                  3.2.1
-
-numpy                     1.26.2
-
-python                    3.9.18
-
-python-igraph             0.11.3
-
-scipy                     1.11.4
-
-torch                     2.1.1+cu118              
-
-torchaudio                2.1.1+cu118              
-
-torchvision               0.16.1+cu118             
-
-pycombo                   0.1.7 
-
-pandas                    2.1.3
-
-scikit-learn              1.3.2  
-
-python-louvain            0.16
-
 
 
